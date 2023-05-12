@@ -1,1 +1,1 @@
-# clima
+Atualizações sobre o clima usando Python:
