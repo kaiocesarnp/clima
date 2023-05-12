@@ -4,7 +4,7 @@ import pyowm
 own = pyowm.OWM('906f1198ac01daf8e0ac43a46d41b4f7')
 
 # Define a cidade que voce quer obeter o clima
-city = "São Paulo, BR"
+city = "Brasília, BR"
 
 # Obtém as informações sobre o clima
 weather_manager = own.weather_manager()
