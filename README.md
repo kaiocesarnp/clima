@@ -1,6 +1,6 @@
 Atualizações sobre o clima usando Python:
 
-Esta forma de obter atualizações sobre o clima usando Python, utiliza o módulo pyowm;
+Esta forma utiliza o módulo pyowm;
 
 Para usar este código, é necessário ter uma conta no OpenWeatherMap e uma chave de API válida, que é concedida após efetuar cadastro no site;
 
