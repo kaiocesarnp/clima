@@ -6,4 +6,4 @@ Para usar este código, é necessário ter uma conta no OpenWeatherMap e uma cha
 
 Necessário também é instalar a biblioteca pyowm, mencionada acima, executando o comando 'pip install pyowm' no terminal;
 
-O código irá obter as informações sobre o clima atual da cidade especificada (Brasília, neste caso) e imprimir a temperatura em graus Celsius;
+O código irá obter as informações sobre o clima atual da cidade especificada (Brasília, neste caso) e imprimir a temperatura em graus Celsius.
